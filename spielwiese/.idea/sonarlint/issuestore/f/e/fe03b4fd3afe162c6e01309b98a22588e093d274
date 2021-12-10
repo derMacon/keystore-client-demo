@@ -1,7 +1,0 @@
-
-N	java:S106"9Replace this use of System.out or System.err by a logger.(º“†Û
-[
-java:S4426"@Use a key length of at least 2048 bits for RSA cipher algorithm.(¹¸®–üÿÿÿÿ
-N
-java:S1481",Remove this unused "privKey" local variable.(²¯šÿÿÿÿÿ8¡ü°‚Ú/
-V	java:S125!"<This block of commented-out lines of code should be removed.(áÄÔæøÿÿÿÿ
